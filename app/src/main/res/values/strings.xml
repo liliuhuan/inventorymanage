@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">库管</string>
+    <string name="str_des">点击下面图片修改图片，点击名称修改名称</string>
+</resources>
